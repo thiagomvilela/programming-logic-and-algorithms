@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img alt="Programming Logic and Algorithms" src="./img/logo.png" />
+  <img alt="Programming Logic and Algorithms" src="programming-logic-and-algorithms(logo).png" />
 </h1>
-
 
 <h1 align="center">Complete course in Programming Logic and Algorithms</h1>
 
